@@ -1,2 +1,3 @@
 # First_css
-Beginner css+html project
+Beginner css+html project, to cheer up your day! Starring my very own fur baby- Milo. I combined my css skills that I learned today and yesterday to create this very simple motivational html, with manipulating css selectors and changing fonts(via Google Fonts), alignment, colors, etc. The trickiest part for me was the alignment. I horizontally centered the div by giving it a width of 50% and margin-left of 25% and then set the image to have a width of 100% to center inline with the div. I eyeballed the margin to the top. 
+![milo](https://github.com/andreapeterson/First_css/assets/134665743/1de9c044-0223-44c8-83ec-fa6ed2c35857)
